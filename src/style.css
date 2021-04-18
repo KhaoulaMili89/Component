@@ -1,0 +1,33 @@
+img
+{
+  height: 300px;
+  width: 300px;
+  /*border-radius: 30% 30% 30% 30%;*/
+  border-radius: 80% ;
+ margin: 100px 600px 20px;
+  border-color: rgb(185, 13, 13);
+  border-width: 20px;
+  filter: contrast(200%);
+  border: 2px solid rgb(2, 172, 163);
+
+}
+.MyName
+{
+font-family: Georgia, serif;
+color:rgb(10, 150, 155);
+font-size: 50px;
+}
+.MyAdress
+{
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  color:rgb(6, 119, 122);
+  font-size: 30px;
+  word-spacing: 5px;
+}
+body
+{
+  background-image: url("https://64.media.tumblr.com/5d7ab997c9daa879a320f9ef21e895b7/tumblr_ooeddrvOJE1uzwgsuo1_400.gifv");
+  background-repeat: no-repeat;
+  background-size: cover;
+  
+}
